@@ -18,6 +18,7 @@ group :development do
   gem 'web-console',           '3.5.1'
   gem 'listen',                '3.1.5'
   gem 'spring',                '2.0.2'
+
   gem 'spring-watcher-listen', '2.0.1'
 end
 
